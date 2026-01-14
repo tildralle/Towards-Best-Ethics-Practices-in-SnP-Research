@@ -1,3 +1,5 @@
 .DS_Store
 data/
 .venv/
+pics/
+vectorizer_and_dtm/
